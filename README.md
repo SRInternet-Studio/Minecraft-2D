@@ -3,6 +3,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/开发语言-Python-coral" alt="语言">
  <img src="https://img.shields.io/badge/核心库-Pygame-blue" alt="核心库">
+ <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSRInternet-Studio%2FMinecraft-2D-for-LittleDream?ref=badge_shield&issueType=security" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSRInternet-Studio%2FMinecraft-2D-for-LittleDream.svg?type=shield&issueType=security"/></a>
 </p>
  <div align="center">这是一款免费开源的2D沙盒游戏，玩家可以用方块搭建属于自己的世界</div>
 
