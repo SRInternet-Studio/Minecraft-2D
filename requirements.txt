@@ -1,0 +1,4 @@
+pygame
+pywin32
+wxPython
+Pillow

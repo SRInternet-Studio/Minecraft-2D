@@ -1,0 +1,11 @@
+{'blast_furnace_front.png': ['20', 6],
+'crafting_table_front.png': ['21', 2],
+'furnace_front.png': ['23', 6],
+'furnace_front_on.png': ['24', 6],
+'jukebox_top.png': ['25', 6],
+'stonecutter_top.png': ['26', 6],
+'structure_block.png': ['27', 6],
+'structure_block_corner.png': ['28', 6],
+'structure_block_data.png': ['29', 6],
+'structure_block_load.png': ['210', 6],
+'structure_block_save.png': ['211', 6]}
